@@ -1,0 +1,12 @@
+D:\Projects\PeaceOfHeart\PeaceOfHeart\bin\Debug\netcoreapp2.0\PeaceOfHeart.deps.json
+D:\Projects\PeaceOfHeart\PeaceOfHeart\bin\Debug\netcoreapp2.0\PeaceOfHeart.runtimeconfig.json
+D:\Projects\PeaceOfHeart\PeaceOfHeart\bin\Debug\netcoreapp2.0\PeaceOfHeart.runtimeconfig.dev.json
+D:\Projects\PeaceOfHeart\PeaceOfHeart\bin\Debug\netcoreapp2.0\PeaceOfHeart.dll
+D:\Projects\PeaceOfHeart\PeaceOfHeart\bin\Debug\netcoreapp2.0\PeaceOfHeart.pdb
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\PeaceOfHeart.csprojAssemblyReference.cache
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\PeaceOfHeart.csproj.CoreCompileInputs.cache
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\PeaceOfHeart.AssemblyInfoInputs.cache
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\PeaceOfHeart.AssemblyInfo.cs
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\PeaceOfHeart.dll
+D:\Projects\PeaceOfHeart\PeaceOfHeart\obj\Debug\netcoreapp2.0\PeaceOfHeart.pdb
